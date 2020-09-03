@@ -14,14 +14,14 @@
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
-
+Login Screen
 ![Alt text](/assets/login.jpeg?raw=true "Login Screen")
+
+Counter Screen
 ![Alt text](/assets/counter.jpeg?raw=true "Counter Screen")
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [ReactNative] (https://github.com/facebook/react-native) - UI Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 
