@@ -15,7 +15,7 @@
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+![Alt text](/Users/nulrybekkarshyga/Pictures/Медиатека\ Фото.photoslibrary/originals/6/6EED018F-3857-4A55-AE49-DE3BB2CD0179.jpeg?raw=true "Login Screen")
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
