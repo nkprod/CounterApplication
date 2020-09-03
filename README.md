@@ -14,9 +14,9 @@
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
-<div>Login Screen</div>
+### Login Screen
 ![Alt text](/assets/login.jpeg?raw=true "Login Screen")
-<div>Counter Screen</div>
+### Counter Screen
 ![Alt text](/assets/counter.jpeg?raw=true "Counter Screen")
 
 
