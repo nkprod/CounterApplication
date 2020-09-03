@@ -14,14 +14,9 @@
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
-Login Screen
+<div>Login Screen</div>
 ![Alt text](/assets/login.jpeg?raw=true "Login Screen")
-
-Counter Screen
+<div>Counter Screen</div>
 ![Alt text](/assets/counter.jpeg?raw=true "Counter Screen")
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [ReactNative] (https://github.com/facebook/react-native) - UI Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 
