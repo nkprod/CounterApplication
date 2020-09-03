@@ -15,8 +15,8 @@
 
 ## 🎈 Usage <a name="usage"></a>
 
-![Alt text](/Users/nulrybekkarshyga/Pictures/Медиатека\ Фото.photoslibrary/originals/6/6EED018F-3857-4A55-AE49-DE3BB2CD0179.jpeg?raw=true "Login Screen")
-
+![Alt text](/assets/login.jpeg?raw=true "Login Screen")
+![Alt text](/assets/counter.jpeg?raw=true "Counter Screen")
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
